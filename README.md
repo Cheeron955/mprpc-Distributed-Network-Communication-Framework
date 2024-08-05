@@ -11,4 +11,10 @@ Compile step:
 
 One-click compilation ./autobuild.sh
 
+After compilation, /consumer and /provider are generated in the /bin directory;
+
+Make sure the zookeeper service is turned on;
+
+Run './consumer -i test.conf' and './provider -i test.conf'
+
 See the blog column for a detailed explanation：https://blog.csdn.net/m0_73537205/category_12707329.html?spm=1001.2014.3001.5482
