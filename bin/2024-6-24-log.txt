@@ -1,0 +1,12 @@
+2:32:47=> [ERROR] frist log message!
+2:32:47=> [ERROR] /root/mprpc/example/callee/friendservice.cc:main:48
+2:32:47=> [INFO] service_name:FriendServiceRpc
+2:32:47=> [INFO] method_name:GetFriendsLists
+2:36:52=> [INFO] frist log message!
+2:36:52=> [INFO] /root/mprpc/example/callee/friendservice.cc:main:48
+2:36:52=> [INFO] service_name:FriendServiceRpc
+2:36:52=> [INFO] method_name:GetFriendsLists
+2:40:16=> [INFO] frist log message!
+2:40:16=> [INFO] /root/mprpc/example/callee/friendservice.cc:main:48
+2:40:16=> [INFO] service_name:FriendServiceRpc
+2:40:16=> [INFO] method_name:GetFriendsLists

@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/root/mprpc/build/src",
+  "command": "/usr/bin/c++    -g -I/root/mprpc/src/include -I/root/mprpc/example    -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /root/mprpc/src/mprpcapplication.cc",
+  "file": "/root/mprpc/src/mprpcapplication.cc"
+},
+{
+  "directory": "/root/mprpc/build/src",
+  "command": "/usr/bin/c++    -g -I/root/mprpc/src/include -I/root/mprpc/example    -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /root/mprpc/src/mprpcconfig.cc",
+  "file": "/root/mprpc/src/mprpcconfig.cc"
+},
+{
+  "directory": "/root/mprpc/build/src",
+  "command": "/usr/bin/c++    -g -I/root/mprpc/src/include -I/root/mprpc/example    -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /root/mprpc/src/rpcheader.pb.cc",
+  "file": "/root/mprpc/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/root/mprpc/build/src",
+  "command": "/usr/bin/c++    -g -I/root/mprpc/src/include -I/root/mprpc/example    -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /root/mprpc/src/rpcprovider.cc",
+  "file": "/root/mprpc/src/rpcprovider.cc"
+},
+{
+  "directory": "/root/mprpc/build/src",
+  "command": "/usr/bin/c++    -g -I/root/mprpc/src/include -I/root/mprpc/example    -o CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c /root/mprpc/src/mprpcchannel.cc",
+  "file": "/root/mprpc/src/mprpcchannel.cc"
+},
+{
+  "directory": "/root/mprpc/build/src",
+  "command": "/usr/bin/c++    -g -I/root/mprpc/src/include -I/root/mprpc/example    -o CMakeFiles/mprpc.dir/mprpccontroller.cc.o -c /root/mprpc/src/mprpccontroller.cc",
+  "file": "/root/mprpc/src/mprpccontroller.cc"
+},
+{
+  "directory": "/root/mprpc/build/src",
+  "command": "/usr/bin/c++    -g -I/root/mprpc/src/include -I/root/mprpc/example    -o CMakeFiles/mprpc.dir/logger.cc.o -c /root/mprpc/src/logger.cc",
+  "file": "/root/mprpc/src/logger.cc"
+},
+{
+  "directory": "/root/mprpc/build/src",
+  "command": "/usr/bin/c++    -g -I/root/mprpc/src/include -I/root/mprpc/example    -o CMakeFiles/mprpc.dir/zookeeperutil.cc.o -c /root/mprpc/src/zookeeperutil.cc",
+  "file": "/root/mprpc/src/zookeeperutil.cc"
+},
+{
+  "directory": "/root/mprpc/build/example/callee",
+  "command": "/usr/bin/c++    -g -I/root/mprpc/src/include -I/root/mprpc/example    -o CMakeFiles/provider.dir/userservice.cc.o -c /root/mprpc/example/callee/userservice.cc",
+  "file": "/root/mprpc/example/callee/userservice.cc"
+},
+{
+  "directory": "/root/mprpc/build/example/callee",
+  "command": "/usr/bin/c++    -g -I/root/mprpc/src/include -I/root/mprpc/example    -o CMakeFiles/provider.dir/__/user.pb.cc.o -c /root/mprpc/example/user.pb.cc",
+  "file": "/root/mprpc/example/user.pb.cc"
+},
+{
+  "directory": "/root/mprpc/build/example/caller",
+  "command": "/usr/bin/c++    -g -I/root/mprpc/src/include -I/root/mprpc/example    -o CMakeFiles/consumer.dir/calluserservice.cc.o -c /root/mprpc/example/caller/calluserservice.cc",
+  "file": "/root/mprpc/example/caller/calluserservice.cc"
+},
+{
+  "directory": "/root/mprpc/build/example/caller",
+  "command": "/usr/bin/c++    -g -I/root/mprpc/src/include -I/root/mprpc/example    -o CMakeFiles/consumer.dir/__/user.pb.cc.o -c /root/mprpc/example/user.pb.cc",
+  "file": "/root/mprpc/example/user.pb.cc"
+}
+]
